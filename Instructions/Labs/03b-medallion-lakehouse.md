@@ -203,11 +203,11 @@ Now that you have some data in the bronze layer of your lakehouse, you can use a
 
 You now have data in your silver delta table that is ready for further transformation and modeling.
 
-## Explore data in the silver layer using the SQL endpoint
+## Explore data in the silver layer using the SQL analytics endpoint
 
-Now that you have data in your silver layer, you can use the SQL endpoint to explore the data and perform some basic analysis. This is a nice option for you if you're familiar with SQL and want to do some basic exploration of your data. In this exercise we're using the SQL endpoint view in Fabric, but note that you can also use other tools like SQL Server Management Studio (SSMS) and Azure Data Explorer.
+Now that you have data in your silver layer, you can use the SQL analytics endpoint to explore the data and perform some basic analysis. This is a nice option for you if you're familiar with SQL and want to do some basic exploration of your data. In this exercise we're using the SQL analytics endpoint view in Fabric, but note that you can also use other tools like SQL Server Management Studio (SSMS) and Azure Data Studio.
 
-1. Navigate back to your workspace and notice that you now have a few assets listed. Select **SQL endpoint** to open your lakehouse in the SQL endpoint view.
+1. Navigate back to your workspace and notice that you now have a few assets listed. Select **SQL analytics endpoint** to open your lakehouse in the SQL analytics endpoint view.
 
     ![Screenshot of the SQL endpoint in a lakehouse.](./Images/sql-endpoint-item.png)
 
